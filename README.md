@@ -4,7 +4,7 @@
 
 Projeto construído do evendo Next Level week da Rocktseat.
 
-![preview](./.github/preview.png)
+![preview](./.github/Preview.png)
 
 [Clique aqui para acessar](https://thg222.github.io/Nlw-Esport-real/)
 
